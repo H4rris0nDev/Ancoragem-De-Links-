@@ -1,0 +1,19 @@
+body {
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #ffdd00e7;
+    text-align: center;
+}
+h2 {
+    color: #ffffff87;
+    text-align: center;
+    font-size: larger;
+}
+
+p {
+    color: #ffffff87;
+    font-size: 18px;
+}
